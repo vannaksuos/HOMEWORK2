@@ -7,19 +7,11 @@ body {
   font-size: 18px;
   line-height: 27px;
   font-family: font-family: Bowlby One SC, cursive;
-  background-color: #ccc;
+  background-color: yellow;
 }
  
-header {
-  font-size: xx-large;
- 
-  width: 100%;
-  padding: 20px;
-}
-
 .name {
-  background-color: green;
-  
+  background-color: purple;
 }
 img {
   margin-left: 20px;
@@ -40,7 +32,7 @@ a {
 @media screen and (max-width: 980px) {
   
   body {
-    background-color: white;
+    background-color: yellow;
     
     }
 }
@@ -48,7 +40,7 @@ a {
     @media screen and (max-width: 768px) {
 
       body {
-        background-color:white;
+        background-color:yellow;
       }
     }
 
@@ -58,7 +50,7 @@ a {
           
         }
         body {
-         background-color: white;
+         background-color: yellow;
         }
         h1 {
           text-align: center;
