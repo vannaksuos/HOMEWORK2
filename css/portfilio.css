@@ -3,32 +3,20 @@
   }
   
   body {
-   
     font-size: 18px;
     line-height: 27px;
     font-family: font-family: Bowlby One SC, cursive;
     background-color: yellow;
   }
    
-  
-  
   .name {
     background-color:purple;
   }
-  
-  a {
-    margin-left: 20px;
-    margin-right: 20px
-    padding-left :20px
-    padding-right : 20px
-  
-  
-  
+
   @media screen and (max-width: 980px) {
     
     body {
-      background-color: yellow;
-      
+      background-color: yellow; 
       }
   }
     
@@ -53,7 +41,6 @@
           div {
             text-align: center;
           }
-         
         }
             
         

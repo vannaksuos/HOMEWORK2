@@ -25,11 +25,9 @@
           background-color:yellow;
         }
       }
-  
         @media screen and (max-width: 640px) {
           header{
             margin: auto;
-            
           }
           body {
            background-color: yellow;
@@ -45,4 +43,5 @@
             margin-right: 20px;
             padding-left: 20px;
           }
+        }
 
