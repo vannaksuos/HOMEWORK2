@@ -2,7 +2,6 @@
     box-sizing: border-box;
   }
   body {
- 
     font-size: 18px;
     line-height: 27px;
     font-family: font-family: Bowlby One SC, cursive;
@@ -13,28 +12,10 @@
       background-color: purple;
   }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   @media screen and (max-width: 980px) {
   
     body {
       background-color: yellow;
-      
       }
   }
     
