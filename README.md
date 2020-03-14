@@ -1,5 +1,4 @@
-
-https://vannaksuos.github.io/HOMEWORK2/
+https://vannaksuos.github.io/Reponsive-Portfolio/
 
 
 This is my second home work 
